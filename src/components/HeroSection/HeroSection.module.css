@@ -1,0 +1,5 @@
+/* src/components/HeroSection/HeroSection.module.css */
+.hero {
+  background-color: #333;
+  opacity: 0;
+}

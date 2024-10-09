@@ -1,0 +1,30 @@
+/* src/styles/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* aiexplorer-portfolio/src/styles/globals.css */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+.wrapper {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+}
+
+.imageContainer {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+}
+
+.scrollImage {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}

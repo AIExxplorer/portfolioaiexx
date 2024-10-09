@@ -1,0 +1,8 @@
+/* src/components/GradientSection/GradientSection.module.css */
+.gradientPurple {
+  background: linear-gradient(135deg, #a4508b, #5f0a87);
+}
+
+.gradientBlue {
+  background: linear-gradient(135deg, #006cff, #0072ff);
+}

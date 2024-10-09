@@ -1,0 +1,11 @@
+/* src/components/ImageContainer/ImageContainer.module.css */
+.imageContainer {
+  position: relative;
+  height: 100vh;
+}
+
+.scrollImage {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
